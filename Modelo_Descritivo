@@ -1,4 +1,8 @@
-
+ALUNOS: Guilherme José Queiroz de Almeida
+        Jorge de Melo Ribeiro
+        Eduardo Fernandes Urbieta de Medeiros
+        
+        
  # O projeto é uma plataforma de Streaming multiplataforma,que de início precisa de um sistema de cadastro com informações do tipo
  (email, telefone, nome, idade, senha de login, e cartão de crédito), com esse cadastro é feito o login com o email e senha fornecidos.
  (Dados que devem ser de extremo sigilo, e que  devem ser mantidos até que se encerre a conta).
